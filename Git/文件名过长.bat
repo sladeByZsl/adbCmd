@@ -1,0 +1,1 @@
+git config core.longpaths true
